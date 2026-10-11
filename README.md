@@ -134,5 +134,6 @@ A curated list of models, benchmarks, tools and guides for audio editing
 |:--------:|:------|:------:|
 | 2025-12 | **SAM Audio: Segment Anything in Audio** | [arXiv](https://arxiv.org/abs/2512.18099)/[Github](https://github.com/facebookresearch/sam-audio) |
 | 2026-08 | **Remove Background Noise (web app)** | [Website](https://removebackgroundnoise.app/) |
+| 2026-10 | **QuietTake Noise Remover (browser-local web app)** | [Website](https://noiseremover.site/) |
 
 

@@ -63,6 +63,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-10 | **Fish Audio Drama 3 Technical Report** | [arXiv](https://arxiv.org/abs/2610.18010)/[GitHub](https://github.com/fishaudio/fish-speech)/[HuggingFace](https://huggingface.co/fishaudio/drama-3)/[Demo](https://fish.audio/) |
 | 2026-10 | **EDICT: Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS** | [arXiv](https://arxiv.org/abs/2610.11437)/[Demo](https://danny-nus.github.io/EDICT-demopage/) |
 | 2026-10 | **AnyEdit: A Unified Framework for Speech and Singing Voice Editing with Real-World Environmental Consistency** | [arXiv](https://arxiv.org/abs/2610.15665)/[Demo](https://any-edit.github.io/) |
 | 2026-09 | **SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows** | [arXiv](https://arxiv.org/abs/2609.34648)/[Github](https://github.com/imxtx/SEmoEdit)/[Demo](https://semoedit.pages.dev/) |

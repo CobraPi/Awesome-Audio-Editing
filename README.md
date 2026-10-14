@@ -34,6 +34,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-10 | **TimbreEdit-Bench & IntraTTS-Bench (EDICT)** | [arXiv](https://arxiv.org/abs/2610.11437)/[Demo](https://danny-nus.github.io/EDICT-demopage/) |
 | 2026-10 | **AnyEditBench** | [arXiv](https://arxiv.org/abs/2610.15665)/[HuggingFace](https://huggingface.co/datasets/Ririiiii/anyeditbench)/[Demo](https://any-edit.github.io/) |
 | 2026-09 | **SEmoEditBench** | [arXiv](https://arxiv.org/abs/2609.34648)/[Github](https://github.com/imxtx/SEmoEdit/tree/main/SEmoEditBench)/[Demo](https://semoedit.pages.dev/) |
 | 2026-08 | **doteBench** | [arXiv](https://arxiv.org/abs/2608.02673)/[Github](https://github.com/studio-dots-ai/doteBench) |
@@ -62,6 +63,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-10 | **EDICT: Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS** | [arXiv](https://arxiv.org/abs/2610.11437)/[Demo](https://danny-nus.github.io/EDICT-demopage/) |
 | 2026-10 | **AnyEdit: A Unified Framework for Speech and Singing Voice Editing with Real-World Environmental Consistency** | [arXiv](https://arxiv.org/abs/2610.15665)/[Demo](https://any-edit.github.io/) |
 | 2026-09 | **SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows** | [arXiv](https://arxiv.org/abs/2609.34648)/[Github](https://github.com/imxtx/SEmoEdit)/[Demo](https://semoedit.pages.dev/) |
 | 2026-09 | **AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing** | [arXiv](https://arxiv.org/abs/2609.08936)/[Github](https://github.com/Tencent-Hunyuan/AuK)/[HuggingFace](https://huggingface.co/tencent/AuK)/[ModelScope](https://modelscope.cn/models/Tencent-Hunyuan/AuK)/[Demo](https://auk-project.github.io/) |

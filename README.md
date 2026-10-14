@@ -34,6 +34,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-10 | **AnyEditBench** | [arXiv](https://arxiv.org/abs/2610.15665)/[HuggingFace](https://huggingface.co/datasets/Ririiiii/anyeditbench)/[Demo](https://any-edit.github.io/) |
 | 2026-09 | **SEmoEditBench** | [arXiv](https://arxiv.org/abs/2609.34648)/[Github](https://github.com/imxtx/SEmoEdit/tree/main/SEmoEditBench)/[Demo](https://semoedit.pages.dev/) |
 | 2026-08 | **doteBench** | [arXiv](https://arxiv.org/abs/2608.02673)/[Github](https://github.com/studio-dots-ai/doteBench) |
 | 2026-06 | **SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing** | [arXiv](https://arxiv.org/abs/2606.01804)/[Github](https://github.com/daxintan-cuhk/SpeechEditBench)/[HuggingFace](https://huggingface.co/datasets/DiscreteSpeech/SpeechEditBench) |
@@ -44,6 +45,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Music Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-10 | **AnyEditBench** | [arXiv](https://arxiv.org/abs/2610.15665)/[HuggingFace](https://huggingface.co/datasets/Ririiiii/anyeditbench)/[Demo](https://any-edit.github.io/) |
 | 2026-03 | **LyricEditBench: The First Benchmark for Melody-Preserving Lyric Modification Evaluation** | [arXiv](https://arxiv.org/abs/2603.24589)/[Github](https://github.com/ASLP-lab/YingMusic-Singer-Plus)/[HuggingFace](https://huggingface.co/datasets/ASLP-lab/LyricEditBench) |
 | 2025-12 | **Evaluating Music Context Preservation: A Multi-facet Framework for Music Editing Systems** | [arXiv](https://arxiv.org/abs/2512.14629)/[Github](https://github.com/Yashvishe13/MuseCPEval) |
 
@@ -60,6 +62,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-10 | **AnyEdit: A Unified Framework for Speech and Singing Voice Editing with Real-World Environmental Consistency** | [arXiv](https://arxiv.org/abs/2610.15665)/[Demo](https://any-edit.github.io/) |
 | 2026-09 | **SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows** | [arXiv](https://arxiv.org/abs/2609.34648)/[Github](https://github.com/imxtx/SEmoEdit)/[Demo](https://semoedit.pages.dev/) |
 | 2026-09 | **AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing** | [arXiv](https://arxiv.org/abs/2609.08936)/[Github](https://github.com/Tencent-Hunyuan/AuK)/[HuggingFace](https://huggingface.co/tencent/AuK)/[ModelScope](https://modelscope.cn/models/Tencent-Hunyuan/AuK)/[Demo](https://auk-project.github.io/) |
 | 2026-08 | **FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation** | [arXiv](https://arxiv.org/abs/2608.24168)/[Github](https://github.com/FireRedTeam/FireRedAudio)/[HuggingFace](https://huggingface.co/FireRedTeam/FireRedAudio)/[ModelScope](https://www.modelscope.cn/models/FireRedTeam/FireRedAudio)/[Demo](https://fireredteam.github.io/demos/fireredaudio/) |
@@ -111,6 +114,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Music Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-10 | **AnyEdit: A Unified Framework for Speech and Singing Voice Editing with Real-World Environmental Consistency** | [arXiv](https://arxiv.org/abs/2610.15665)/[Demo](https://any-edit.github.io/) |
 | 2026-09 | **AURA: Unified Multimodal Framework for Conversational Music Editing** | [arXiv](https://arxiv.org/abs/2609.14344)/[Github](https://github.com/OpenRB-Lab/AURA)/[HuggingFace](https://huggingface.co/OpenRB-Lab/AURA)/[Demo](https://openrb-lab.github.io/AURA-demo/) |
 | 2026-08 | **CLASVS: Continuous-Latent Autoregression for Melody-Preserving Lyric Editing in Singing Voice Synthesis** | [arXiv](https://arxiv.org/abs/2608.03253)/[Demo](https://piedpiperg.github.io/clasvs-demo/) |
 | 2026-08 | **P-MUSE: Prompt-MIDI-Optional Model for Unified Instrumental Music Synthesis and Editing** | [arXiv](https://arxiv.org/abs/2608.01920)/[Github](https://github.com/FEAfeatherTHER/P-MUSE-eval)/[Demo](https://p-muse.github.io/) |
